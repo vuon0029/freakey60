@@ -18,4 +18,4 @@ Weight screws: M2x4 countersunk screws
 
 
 ## Updates
-May 3rd: Order placed 01 for "prototype"
+- [x] Order placed 01 for "prototype" on May 3rd
