@@ -10,6 +10,8 @@ Modified Bakeneko60 with side profile changes, "cherry lip" and Unikorn style we
 ## Parts
 PCB: 4pplet [Waffling60](https://4pplet.com/products/waffling60-bakeneko-unikorn-kei-alternative-pcb-60-mx)
 
+Daughterboard: ai03 Unified daugherboard
+
 Plate: Universal 60%
 
 Weight screws: M2x4 countersunk screws
