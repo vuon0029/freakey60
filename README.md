@@ -1,4 +1,6 @@
 # freakey60
+> I have not physically tested this design and it is based on other open source projects. Use as reference and at your own risk
+
 Modified Bakeneko60 with side profile changes, "cherry lip" and Unikorn style weight
 ## Images
 <img width="1034" alt="Front view" src="https://user-images.githubusercontent.com/55266028/166408207-bd964251-8b11-41d6-ab47-59f275722b4f.png">
