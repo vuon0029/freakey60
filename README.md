@@ -1,5 +1,5 @@
 # freakey60
-> I have not physically tested this design and it is based on other open source projects. Use as reference and at your own risk
+> I have not physically tested this design and it is based on other open-source projects. Use as reference and at your own risk.
 
 Modified Bakeneko60 with side profile changes, "cherry lip" and Unikorn style weight
 ## Images
