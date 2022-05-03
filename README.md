@@ -16,3 +16,6 @@ Plate: Universal 60%
 
 Weight screws: M2x4 countersunk screws
 
+
+## Updates
+May 3rd: Order placed 01 for "prototype"
