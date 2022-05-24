@@ -20,5 +20,7 @@ Weight screws: M2x4 countersunk screws
 ## Updates
 - [x] Order placed for 01 "prototype" on May 3rd
 - [x] Finished cnc and anodizing
-- [ ] Shipped out
-- [ ] Received
+- [x] Shipped out
+- [x] Received
+
+Sound test: https://www.youtube.com/watch?v=oLecWp8GwVM&t=2s
