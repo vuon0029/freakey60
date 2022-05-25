@@ -22,5 +22,6 @@ Weight screws: M2x4 countersunk screws
 - [x] Finished cnc and anodizing
 - [x] Shipped out
 - [x] Received
+- [x] Fixed USB cutout flaw: not deep enough
 
 Sound test: https://www.youtube.com/watch?v=oLecWp8GwVM&t=2s
